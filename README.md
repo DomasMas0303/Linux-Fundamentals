@@ -7,7 +7,7 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 
 <h2>Topics Included:</h2>
 
-- <b>--------- Linux Introduction</b>
+- <b>-------------------- Linux Introduction</b>
 - <b>Unix-based OS's</b> 
 - <b>Linux Distributions</b>
 - <b>Shell</b> 
@@ -17,7 +17,7 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 - <b>Disk Quotas</b> 
 - <b>Boot Loaders</b>
 - <b>Runlevels</b> 
-- <b>--------- Linux Shell Basics </b>
+- <b>--------------------- Linux Shell Basics </b>
 - <b>Introduction to Shells</b>
 - <b>Shell Programming</b>
 - <b>Basic Shell Commands</b>
@@ -25,17 +25,17 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 - <b>Filesystem files search</b>
 - <b>Xargs</b>
 - <b>Working with Archives</b>
-- <b>--------- Package Management </b>
+- <b>-------------------- Package Management </b>
 - <b>Software Management</b>
 - <b>Alternatives</b>
 - <b>Systemd/init.d</b>
 - <b>Crond</b>
 - <b>JAVA (OpenJDK)</b>
-- <b>--------- Users, Groups, Permissions </b>
+- <b>-------------------- Users, Groups, Permissions </b>
 - <b>Users and Groupst</b>
 - <b>Permission model</b>
 - <b>SELinux</b>
-- <b>--------- Networking, Remote Access </b>
+- <b>-------------------- Networking, Remote Access </b>
 - <b>Network Configuration</b>
 - <b>Networking tools</b>
 - <b>Firewall.d and IPtables</b>
@@ -50,7 +50,13 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 
 
 
+
+
+
 <h2> Homework Tasks: </h2>
+
+
+
 
 #Each lecture contained a homework task.
 
@@ -58,9 +64,17 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 
 
 
+
+
+
+
+
 <h2>Course:</h2>
 
 #Task checks for completion.
+
+
+
 
 ![image](https://github.com/DomasMas0303/Linux-Fundamentals/assets/125759458/7fbccf14-9fb2-4677-9ea7-6d6d5a954eb6)
 ![image](https://github.com/DomasMas0303/Linux-Fundamentals/assets/125759458/f5fefd4a-11c6-4fc4-af37-17a68b934102)
