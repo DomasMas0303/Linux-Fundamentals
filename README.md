@@ -1,7 +1,7 @@
 <h1>EPAM Essentials - CentOS Linux</h1>
 
 <h2>Description</h2>
-Each module consists of lectures followed up by "Knowledge check" tests after each topic and "homework".
+Each module consists of lectures followed up by "Knowledge check" tests after each topic and homework.
 <br />
 
 
